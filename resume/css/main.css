@@ -144,7 +144,7 @@ footer a:not(.nav-link) {
     }
 .field-item {
       display: list-item;
-      list-style-type: disc;
+      list-style-type:disc;
     }
 
 .container{
@@ -178,5 +178,10 @@ footer a:not(.nav-link) {
 .col2{ 
     display:table-cell;
      border: 1px solid #CCC;
+     width: 300px;
+ }
+ .certificate{
+  display:table-cell;
+     border: 0px solid #CCC;
      width: 300px;
  }
